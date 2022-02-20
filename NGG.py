@@ -1,3 +1,5 @@
+# WORKS WELL IN PYCHARM --- TRIED AND TESTED
+
 import random
 
 # count is used for logging in the number of tries.
